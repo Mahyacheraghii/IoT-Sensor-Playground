@@ -6,8 +6,6 @@
 
 > A hands-on playground for learning, experimenting with, and documenting sensors on embedded platforms.
 
----
-
 ## 🎯 Project Goal
 
 This repository is for **learning by doing** with sensors and embedded boards.
@@ -17,8 +15,6 @@ It focuses on:
 - Understanding how sensors work
 - Practicing hardware setup and coding
 - Documenting insights and lessons learned
-
----
 
 ## 📂 Repository Structure
 
@@ -44,8 +40,6 @@ IoT-Sensor-Playground/
 └── …
 ```
 
----
-
 ## ⚡ Usage
 
 1. Open a **sensor folder**
@@ -55,15 +49,11 @@ IoT-Sensor-Playground/
 5. Connect the hardware and run the code
 6. Add notes and observations to the project `README.md` if needed
 
----
-
 ## 📌 Notes
 
 - All code is for **learning and experimentation purposes**
 - Each sensor may require specific libraries or setup steps
 - Use this repository as a reference for **self-learning and practical IoT experimentation**
-
----
 
 ## 📝 Documentation
 
