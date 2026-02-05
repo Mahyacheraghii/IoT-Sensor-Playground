@@ -28,17 +28,17 @@ IoT-Sensor-Playground/
 ├── Sensor_1/                  # Module / sensor name
 │   ├── README.md              # Sensor overview & basics
 │   ├── Project_1/
-│   │   ├── code/              # Source code
+│   │   ├── code.ino           # Source code
 │   │   └── README.md          # Project overview, wiring, notes & run instructions
 │   │
 │   └── Project_2/
-│       ├── code/
+│       ├── code.ino
 │       └── README.md
 │
 ├── Sensor_2/
 │   ├── README.md
-│   └── Basic_Read/
-│       ├── code/
+│   └── Project_1/
+│       ├── code.ino
 │       └── README.md
 │
 └── …
