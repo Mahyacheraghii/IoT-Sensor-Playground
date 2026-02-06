@@ -21,7 +21,7 @@ The sensor module usually comes with three pins:
 - **Analog Output (AO):**  
   This pin outputs a voltage that changes with the flame's intensity. You can read this value with an analog input pin on your microcontroller to get more detailed information about the flame.
 
-## Note:
+## Notes
 
 - **Distance:**  
   The sensor works best within a range of about 0 to 80 cm from the flame. Keep in mind safety precautions when testing with real flames.
