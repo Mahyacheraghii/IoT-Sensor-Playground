@@ -19,3 +19,5 @@ The RGB LED receives color values through the Serial Monitor. Arduino reads the 
 - Set the baud rate in the Serial Monitor to **115200**.
 - Send RGB values in the format: `R,G,B` (for example: `255,100,50`).
 - Each value should be between 0 and 255.
+
+![firmware](./firmware.jpg)

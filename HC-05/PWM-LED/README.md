@@ -85,3 +85,5 @@ You can see received messages in the Serial Monitor (baud rate: **115200**).
 1. Although most tutorials suggest using **9600 baud** for data mode, this module worked correctly with **38400 baud** in both AT mode and data mode for me.
 
 2. Initially, the device was not visible in the phone's Bluetooth settings. After performing a factory reset and restoring the default configuration, the device became discoverable within a few minutes.
+
+![firmware](./firmware.jpeg)
